@@ -1,0 +1,36 @@
+﻿Origen;Destino;Longitud (m)
+;;
+Portal suba;campiña;650
+campiña;tv 91;670
+tv 91;suba av boyaca;2000
+suba av boyaca;calle 127;1800
+calle 127;humedal cordoba;650
+humedal cordoba;calle 116;800
+calle 116;puente largo;780
+puente largo;suba calle 100;1250
+suba calle 100;calle 95;600
+calle 95;rionegro;630
+rionegro;san martin;600
+san martin;escuela militar;2100
+escuela militar;carrera 47;750
+carrera 47;carrera 53;690
+carrera 53;ferias;1100
+ferias;titan plaza;620
+titan plaza;minuto de dios;1500
+minuto de dios;granja;690
+granja;quirigua;900
+quirigua;portal 80;1850
+portal 80;polo;8900
+polo;calle 76;950
+calle 76;calle 72;630
+calle 72;flores;650
+flores;calle 67;650
+calle 67;calle 63;650
+calle 63;calle 57;650
+calle 57;marly;650
+marly;calle 45;650
+calle 45;calle 39;650
+calle 39;profamilia;650
+profamilia;calle 26;650
+calle 26;calle 22;1250
+calle 22;calle 19;700
